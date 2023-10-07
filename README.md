@@ -1,2 +1,2 @@
 # delta-batch
-this is just a description 
+this is just a description.
